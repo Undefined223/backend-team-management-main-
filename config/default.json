@@ -1,0 +1,7 @@
+{
+    "port": "3001",
+    "allowedCorsUrl": "http://localhost:3000",
+    "mongo-url": "mongodb://root:password@localhost:27017/bissa?authSource=admin",
+    "jwtSecret": "This is a secret key for testing purposes",
+    "tokenExpire": "1d"
+}
